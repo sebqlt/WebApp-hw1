@@ -1,0 +1,41 @@
+
+body{
+    background-color: tomato;
+}
+button{
+    background-color: transparent;
+    border: 1px solid gray;
+}
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    overflow:hidden;
+    -webkit-border-radius:250px;
+    -moz-border-radius:250px;
+    border-radius:250px;
+    width:250px;
+    height:250px;
+  }
+#button{
+    margin-top: -10px;
+    text-align: center;
+}
+.container{
+    text-align: center;
+    margin-top: 50px;
+}
+.title{
+    display: inline-block;
+    border-top: 4px solid midnightblue;
+    padding-top: 0px;
+}
+#title{
+    font-size: 50px;
+    margin-top: 0px;
+}
+p{
+    text-align: center;
+    color: midnightblue;
+}
